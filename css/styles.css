@@ -80,6 +80,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: gray;
+    color: white;
     height: 250px;
     flex-basis: 60%;
 }
